@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-[Selenay'ı Çok Seviyorum](www.google.com)
+[Selenay'ı Çok Seviyorum...](https://www.google.com.tr/)
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
